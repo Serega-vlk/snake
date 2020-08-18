@@ -1,0 +1,13 @@
+C:\Users\SeregaAsus\Documents\проэкты c#\snake\snake\bin\Release\netcoreapp3.1\snake.exe
+C:\Users\SeregaAsus\Documents\проэкты c#\snake\snake\bin\Release\netcoreapp3.1\snake.deps.json
+C:\Users\SeregaAsus\Documents\проэкты c#\snake\snake\bin\Release\netcoreapp3.1\snake.runtimeconfig.json
+C:\Users\SeregaAsus\Documents\проэкты c#\snake\snake\bin\Release\netcoreapp3.1\snake.runtimeconfig.dev.json
+C:\Users\SeregaAsus\Documents\проэкты c#\snake\snake\bin\Release\netcoreapp3.1\snake.dll
+C:\Users\SeregaAsus\Documents\проэкты c#\snake\snake\bin\Release\netcoreapp3.1\snake.pdb
+C:\Users\SeregaAsus\Documents\проэкты c#\snake\snake\obj\Release\netcoreapp3.1\snake.csprojAssemblyReference.cache
+C:\Users\SeregaAsus\Documents\проэкты c#\snake\snake\obj\Release\netcoreapp3.1\snake.AssemblyInfoInputs.cache
+C:\Users\SeregaAsus\Documents\проэкты c#\snake\snake\obj\Release\netcoreapp3.1\snake.AssemblyInfo.cs
+C:\Users\SeregaAsus\Documents\проэкты c#\snake\snake\obj\Release\netcoreapp3.1\snake.csproj.CoreCompileInputs.cache
+C:\Users\SeregaAsus\Documents\проэкты c#\snake\snake\obj\Release\netcoreapp3.1\snake.dll
+C:\Users\SeregaAsus\Documents\проэкты c#\snake\snake\obj\Release\netcoreapp3.1\snake.pdb
+C:\Users\SeregaAsus\Documents\проэкты c#\snake\snake\obj\Release\netcoreapp3.1\snake.genruntimeconfig.cache

@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace snake
+{
+    class Figure 
+    {
+        protected List<Point> pList;
+
+        public void Draw()
+        {
+            foreach(Point p in pList)
+            {
+                p.Draw();
+            }
+        }
+
+        public bool IsHit(Figure f)
+        {
+            foreach (var p in pList)
+            {
+                if (f.IsHit(p))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        private bool IsHit(Point point)
+        {
+            foreach (var p in pList)
+            {
+                if (p.IsHit(point))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+    }
+}
